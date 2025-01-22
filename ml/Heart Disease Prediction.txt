@@ -1,0 +1,18 @@
+1. Importing the Libraries
+2. Importing the Dataset
+3. Taking Care of Missing Values
+4. Taking Care of Duplicate Values
+5. Data Processing
+6. Encoding Categorical Data
+7. Feature Scaling
+8. Splitting The Dataset Into The Training Set And Test Set
+9. Logistic Regression
+10. SVC
+11. KNeighbors Classifier
+Non-Linear ML Algorithms
+12. Decision Tree Classifier
+13. Random Forest Classifier
+14. Gradient Boosting Classifier
+15. Prediction on New Data
+16. Save Model Usign Joblib
+17. Creating GUI

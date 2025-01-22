@@ -1,0 +1,39 @@
+Pizza price prediction
+- here the currency is from indonesia
+
+1. Display Top 5 Rows of the Dataset
+2. Check last 5 rows of the dataset
+3. display 5 random sample data
+4. Find shape of our dataset
+5. Get overall information about our dataset like total number of rows, total number of columns, datatypes of each column and memory requirement
+6. check Null values in the dataset
+7. Get overall statistics about the dataset
+8. Data Preprocessing
+    - first check price_rupiah column
+    - remove string from data
+    - convert price in nepali currency
+    - for diameter
+9. Data Analysis
+What is Univariate Analysis?
+    - Company
+    - Price
+    - etc...
+10. Bivariate Analysis
+    - price by Company
+    - price by topping
+    - price by size
+11. Find the most expensive pizza
+12. Find diameter of jumbo size pizza
+13. Find diameter of XL size pizzas
+14. Let's handling outliers
+15. Label Encoding
+16. Store feature matrix in X and response(target) in vector y
+17. splitting the dataset into the training set and test set
+18. import the models
+19. Prediction on test data
+20. Evaluating the Algorithm
+21. Feature Importance
+    1. Random Forest
+    2. Gradiant Boosting Regressor
+22. Save The Model
+23. GUI
